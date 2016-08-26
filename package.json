@@ -1,0 +1,19 @@
+{
+  "name": "irrationals",
+  "version": "1.0.0",
+  "description": "Learn irrational numbers. Built using Bootstrap and React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoVerto/Irrationals.git"
+  },
+  "author": "Leo Verto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeoVerto/Irrationals/issues"
+  },
+  "homepage": "https://github.com/LeoVerto/Irrationals#readme"
+}
